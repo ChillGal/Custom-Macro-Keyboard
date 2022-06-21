@@ -54,7 +54,7 @@ The design of the case was done in Fusion Autodesk 360 over 8 iterations. It has
 ![](Photos/DisplayPlateDiagonalProfile.jpg "Diagonal view of the display plate")
 
 ## Printing the parts
-This took a ridiculous amount of time at 18 hours to print for the base alone. The display plate took 20 minutes and the Keyplate took about 2$\frac{1}{2}$ hours resulting in a total print time of 20 hours and 50 minutes not including prototype print. The base also printed with a lot of support which took a significant time to remove. In addition, I did not have good printer bed adhesion and as such used copious amount of glue to get the first layer to stick, however this glue resulted in lots of unevenness on the bottom which was luckily sorted out by the use of rubber feet on the corners.
+This took a ridiculous amount of time at 18 hours to print for the base alone. The display plate took 20 minutes and the Keyplate took about 2$\frac{1}{2}$ hours resulting in a total print time of 20 hours and 50 minutes not including prototype prints. The base also printed with a lot of support which took a significant time to remove. In addition, I did not have good printer bed adhesion and as such used copious amount of glue to get the first layer to stick, however this glue resulted in lots of unevenness on the bottom which was luckily sorted out by the use of rubber feet on the corners.
 
 ## Soldering
 
