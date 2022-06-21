@@ -4,7 +4,8 @@ Custom designed macro keyboard
 This was personal project for my partner as he is a streamer and the extra keys to bind to use is very useful while being cheaper than a Elgato stream deck.
 - The case was designed in Autodesk Fusion 360.
 - Code written in Arduino IDE.
-- 
+
+
 ## Part choice
 For this project, I knew I wanted a display for text, a volume control knob and at least 8 buttons. The buttons also had to have a nice feeling so i went with Cherry MX Brown switches as they are my partner's favourite kind of switch. I used re-legendable keycaps to allow for relabelling the keycaps at a later date if necessary. The components used in this project are:
 - Arduino Pro Micro (I specifically looked for a USB-C version since it is most robust than USB-B Micro and reversible connector)
