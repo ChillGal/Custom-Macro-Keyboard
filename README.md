@@ -1,10 +1,12 @@
 # Custom-Macro-Keyboard
 Custom designed macro keyboard
 
+Thingiverse: https://www.thingiverse.com/thing:5415824
+
 This was personal project for my partner as he is a streamer and the extra keys to bind to use is very useful while being cheaper than a Elgato stream deck.
 - The case was designed in Autodesk Fusion 360.
 - Code written in Arduino IDE.
-- 
+
 ## Part choice
 For this project, I knew I wanted a display for text, a volume control knob and at least 8 buttons. The buttons also had to have a nice feeling so i went with Cherry MX Brown switches as they are my partner's favourite kind of switch. I used re-legendable keycaps to allow for relabelling the keycaps at a later date if necessary. The components used in this project are:
 - Arduino Pro Micro (I specifically looked for a USB-C version since it is most robust than USB-B Micro and reversible connector)
@@ -52,7 +54,7 @@ The design of the case was done in Fusion Autodesk 360 over 8 iterations. It has
 ![](Photos/DisplayPlateDiagonalProfile.jpg "Diagonal view of the display plate")
 
 ## Printing the parts
-This took a ridiculous amount of time at 18 hours to print for the base alone. The display plate took 20 minutes and the Keyplate took about 2$\frac{1}{2}$ hours resulting in a total print time of 20 hours and 50 minutes not including prototype print. The base also printed with a lot of support which took a significant time to remove. In addition, I did not have good printer bed adhesion and as such used copious amount of glue to get the first layer to stick, however this glue resulted in lots of unevenness on the bottom which was luckily sorted out by the use of rubber feet on the corners.
+This took a ridiculous amount of time at 18 hours to print for the base alone. The display plate took 20 minutes and the Keyplate took about 2$\frac{1}{2}$ hours resulting in a total print time of 20 hours and 50 minutes not including prototype prints. The base also printed with a lot of support which took a significant time to remove. In addition, I did not have good printer bed adhesion and as such used copious amount of glue to get the first layer to stick, however this glue resulted in lots of unevenness on the bottom which was luckily sorted out by the use of rubber feet on the corners.
 
 ## Soldering
 
